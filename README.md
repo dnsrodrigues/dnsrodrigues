@@ -1,4 +1,4 @@
-## Oiii eu sou o Denis Rodrigues, programador Full Stack!!! 😉 
+## Oiii eu sou o Denis Rodrigues, desenvolvedor Full Stack!! 😉 
 <div align="center">
   <a href="https://github.com/dnsrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-  
+
 ##
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrodrigues&bg_color=0e1018&color=2fcd9f&line=444fd5&point=00e2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -33,5 +33,6 @@
   <a href="https://www.linkedin.com/in/dnsrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:sined.imr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
 </div>
+   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b300e5&height=120&section=footer"/>

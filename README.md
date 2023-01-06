@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b300e5&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Denis+Rodrigues,+Dev+Full+Stack.;I'm+34+years+old.;I+from+Porto+Alegre,+RS.;Be+Welcome!!+😉)](https://git.io/typing-svg)
  
-<div align="center">
+<div align="center">  
   <a href="https://github.com/dnsrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 

@@ -10,8 +10,6 @@
 </div>
 
 ##
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dnsrodrigues&bg_color=0e1018&color=2fcd9f&line=444fd5&point=00e2ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div style="display: inline_block" align="center">
   <br><p align="centre"><h2>Main skills</h2></p> 

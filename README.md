@@ -22,14 +22,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dnsrodrigues&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnsrodrigues&theme=tokyonight&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnsrodrigues&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dnsrodrigues&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
 </div>
 
 ---

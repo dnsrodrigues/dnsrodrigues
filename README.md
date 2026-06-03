@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10"/>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 ## 🏆 Troféus GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnsrodrigues&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
+  <img src="https://github-profile-trophy-omega.vercel.app/?username=dnsrodrigues&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
 </div>
 
 ---

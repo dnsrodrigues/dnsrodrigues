@@ -1,37 +1,93 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b300e5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Denis%20Rodrigues&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=22&descAlignY=62"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b300e5&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Denis+Rodrigues,+Dev+Full+Stack.;I'm+34+years+old.;I+from+Porto+Alegre,+RS.;Be+Welcome!!+😉)](https://git.io/typing-svg)
- 
-<div align="center">  
-  <a href="https://github.com/dnsrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=16&theme=dracula"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Full+Stack+Developer+%7C+5+anos+de+experi%C3%AAncia;STV+Seguran%C3%A7a+%7C+Setor+de+Inova%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o+%F0%9F%9A%80;Porto+Alegre%2C+RS+%F0%9F%87%A7%F0%9F%87%B7)](https://git.io/typing-svg)
+
+---
+
+## 👨‍💻 Sobre Mim
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🏢 Atualmente na **STV Segurança** — Setor de Inovação
+- 💼 **Suporte / Desenvolvedor Full Stack**
+- ⚡ **5 anos** de experiência em desenvolvimento
+- 📍 **Porto Alegre, RS 🇧🇷**
+- 🌱 Sempre aprendendo e explorando novas tecnologias
+- 💬 Aberto a conversas sobre tech, inovação e projetos!
+
+<br clear="right"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnsrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsrodrigues&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 </div>
 
-##
+<br/>
 
-<div style="display: inline_block" align="center">
-  <br><p align="centre"><h2>Main skills</h2></p> 
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"/>
-  <img align="center" alt="Denis-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center" alt="Denis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Denis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Denis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-  <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
-  <img align="center" alt="Denis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Denis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">      
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dnsrodrigues&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-##
+---
 
-<div align="center"> 
-  <a href="https://instagram.com/odns.r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dnsrodrigues" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sined.imr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a
+## 🏆 Troféus GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dnsrodrigues&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 </div>
-   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b300e5&height=120&section=footer"/>
+---
+
+## 🛠️ Stack de Tecnologias
+
+<div align="center">
+
+### 🎨 Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📱 Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Entre em Contato
+
+<div align="center">
+  <a href="https://instagram.com/odns.r" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dnsrodrigues" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sined.imr@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnsrodrigues&color=0ea5e9&style=flat-square&label=Visitantes+do+Perfil" alt="Profile Views"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
